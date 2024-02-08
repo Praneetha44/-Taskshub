@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70929362700",
+    "project_id": "task-28b79",
+    "storage_bucket": "task-28b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70929362700:android:eb8cf6f41b029574912329",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxL40QjR_QJI41dLa2TPUuy8Ir9HwG4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
